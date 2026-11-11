@@ -1,0 +1,16 @@
+{
+  "classifications": [
+    {
+      "scene": "s1",
+      "day": "2026-10-01",
+      "label": "forest",
+      "model_version": "v1"
+    },
+    {
+      "scene": "s2",
+      "day": "2026-10-02",
+      "label": "water",
+      "model_version": "v1"
+    }
+  ]
+}
