@@ -1,0 +1,7 @@
+{
+  "fields": [
+    {"name": "scene", "type": "TEXT", "required": true},
+    {"name": "day", "type": "TEXT", "required": true},
+    {"name": "label", "type": "TEXT", "required": true}
+  ]
+}
